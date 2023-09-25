@@ -10,7 +10,7 @@ This project aims to predict whether a person has diabetes or not, based on cert
 
 ## Dataset
 
-The dataset used in this project is the diabetes dataset. It contains several diagnostic measurements and a target variable `Outcome` which indicates whether a person has diabetes or not.
+The dataset used in this project is the diabetes dataset. It contains several diagnostic measurements and a target variable `Outcome` which indicates whether a person has diabetes or not , https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
 
 ## Steps
 
